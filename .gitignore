@@ -1,0 +1,5 @@
+node_modules
+*.gpx
+build
+data
+package-lock.json
